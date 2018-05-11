@@ -5,6 +5,7 @@ An open source block explorer written in node.js.
 
 ### See it in action
 
+*  [EOTCoin](http://eotexplorer.com)
 *  [Jumbucks](http://explorer.getjumbucks.com)
 *  [Sphere](http://sphere.iquidus.io)
 *  [SAR](http://explorer.sarcoin.info)
